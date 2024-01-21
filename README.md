@@ -1,4 +1,4 @@
-<img src="https://github.com/AadiVerma/AadiVerma/assets/122523624/ff5d047c-abef-4081-a062-65c7c265ba8e" height=400 width=100%/>
+
 
 <h1 align="center">Hi 👋, I'm Aditya Verma</h1>
 <h3 align="center">A passionate developer from India</h3>
