@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AadiVerma](https://github.com/AadiVerma)
 
-- 💬 Ask me about **JAVA,FLUTTER,Web**
+- 💬 Ask me about **JAVA,FLUTTER,WEB**
 
 - 📫 How to reach me **adityakaplish11@gmail.com**
 
