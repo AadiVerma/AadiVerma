@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/kaplishaditya" target="blank"><img src="https://img.shields.io/twitter/follow/kaplishaditya?logo=twitter&style=for-the-badge" alt="kaplishaditya" /></a> </p>
 
-- 🌱 I’m currently learning **FLUTTER**
+- 🌱 I’m currently learning **Web Devlopment**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AadiVerma](https://github.com/AadiVerma)
 
