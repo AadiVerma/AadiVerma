@@ -59,18 +59,13 @@ ark@github ~ $ █
 
 <h3 align="center"><code>~/activity</code></h3>
 
-<table align="center">
-<tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=aadiverma&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=22d3ee&hide_border=true&border_radius=12" alt="GitHub stats" /></td>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadiverma&layout=donut&langs_count=6&card_width=320&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=22d3ee&hide_border=true&border_radius=12" alt="Top languages" /></td>
-</tr>
-<tr>
-<td colspan="2" align="center"><img src="https://streak-stats.demolab.com/?user=aadiverma&background=0d1117&ring=a78bfa&fire=f472b6&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=a78bfa&sideLabels=22d3ee&dates=8b949e&stroke=30363d&hide_border=true&border_radius=12" alt="GitHub streak" /></td>
-</tr>
-</table>
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=aadiverma&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=22d3ee&hide_border=true&border_radius=12" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadiverma&layout=donut&langs_count=6&card_width=320&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=22d3ee&hide_border=true&border_radius=12" alt="Top languages" />
+</p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aadiverma&bg_color=0d1117&color=8b949e&title_color=a78bfa&line=a78bfa&point=22d3ee&area=true&area_color=a78bfa&hide_border=true&radius=12" alt="Contribution graph" />
+  <img src="https://streak-stats.demolab.com/?user=aadiverma&background=0d1117&ring=a78bfa&fire=f472b6&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=a78bfa&sideLabels=22d3ee&dates=8b949e&stroke=30363d&hide_border=true&border_radius=12" alt="GitHub streak" />
 </p>
 
 <p align="center"><img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:a78bfa,100:0d1117&height=2" alt="" /></p>
